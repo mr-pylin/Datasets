@@ -39,14 +39,14 @@ Pixels noted in the below tables are considered for flattened images.
 | ./Dog/95.jpg  | 3   | 13  | 15  | 2   | ... | Dog   |
 | ./Dog/124.jpg | 116 | 82  | 55  | 111 | ... | Dog   |
 ```
-<!-- ![Cat](./demo/demo1.jpg) -->
+<!-- ![Cat](./Demo/demo1.jpg) -->
 <div style= "display: flex;align-items: flex-end">
-  <div align='center'><img src="./demo/demo1.jpg" alt="Cat"><div>./Cat/0.jpg</div></div>
-  <div align='center'><img src="./demo/demo2.jpg" alt="Cat"><div>./Cat/1.jpg</div></div>
-  <div align='center'><img src="./demo/demo3.jpg" alt="Cat"><div>./Cat/62.jpg</div></div>
-  <div align='center'><img src="./demo/demo4.jpg" alt="Dog"><div>./Dog/0.jpg</div></div>
-  <div align='center'><img src="./demo/demo5.jpg" alt="Dog"><div>./Dog/95.jpg</div></div>
-  <div align='center'><img src="./demo/demo6.jpg" alt="Dog"><div>./Dog/124.jpg</div></div>
+  <div align='center'><img src="./Demo/demo1.jpg" alt="Cat"><div>./Cat/0.jpg</div></div>
+  <div align='center'><img src="./Demo/demo2.jpg" alt="Cat"><div>./Cat/1.jpg</div></div>
+  <div align='center'><img src="./Demo/demo3.jpg" alt="Cat"><div>./Cat/62.jpg</div></div>
+  <div align='center'><img src="./Demo/demo4.jpg" alt="Dog"><div>./Dog/0.jpg</div></div>
+  <div align='center'><img src="./Demo/demo5.jpg" alt="Dog"><div>./Dog/95.jpg</div></div>
+  <div align='center'><img src="./Demo/demo6.jpg" alt="Dog"><div>./Dog/124.jpg</div></div>
 </div>
 
 # License

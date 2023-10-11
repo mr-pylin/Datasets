@@ -44,8 +44,8 @@ Missing Values are considered as `null` in the dataset.
 | 276      | Dream     | 46.5        | 17.9       | 192            | 3500      | female | 2007 | Chinstrap |
 | 277      | Dream     | 50          | 19.5       | 196            | 3900      | male   | 2007 | Chinstrap |
 ```
-<div align='center'><img src="./demo/demo1.png" alt="demo"></div>
-<div align='center'><img src="./demo/demo2.png" alt="demo"></div>
+<div align='center'><img src="./Demo/demo1.png" alt="demo"></div>
+<div align='center'><img src="./Demo/demo2.png" alt="demo"></div>
 
 # License
 This dataset is licensed under a [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0) (`CC0 1.0`) license.  

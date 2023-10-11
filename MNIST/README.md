@@ -48,8 +48,7 @@ Samples are chosen from trainset
 | 17       | 0    | 0    | 0    | 0    | ... | 0    | 0    | 0    | 0    | 8     |
 | 19       | 0    | 0    | 0    | 0    | ... | 0    | 0    | 0    | 0    | 9     |
 ```
-<!-- ![Demo](./demo.png) -->
-<div align='center'><img src="./demo/demo.png" alt="Demo"></div>
+<div align='center'><img src="./Demo/demo.png" alt="Demo"></div>
 
 # License
 It seems like there is no specific license statement or agreement attached to the dataset by its creators or maintainers.

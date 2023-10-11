@@ -49,8 +49,7 @@ Samples are chosen from trainset
 | 109      | 0    | 0    | 0    | 0    | ... | 0    | 0    | 0    | 0    | Bag         |
 | 111      | 0    | 0    | 0    | 0    | ... | 0    | 0    | 0    | 0    | AnkleBoot   |
 ```
-<!-- ![Demo](./demo.png) -->
-<div align='center'><img src="./demo/demo.png" alt="Demo"></div>
+<div align='center'><img src="./Demo/demo.png" alt="Demo"></div>
 
 # License
 This dataset is licensed under The MIT License (MIT) Copyright © 2017 Zalando SE, [tech.zalando.com](https://tech.zalando.com)  
